@@ -1,0 +1,18 @@
+[project]
+name = "agencia-de-noticias-ia"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno>=1.8.0",
+    "ddgs>=9.5.4",
+    "duckduckgo-search>=8.1.1",
+    "langchain-community>=0.3.29",
+    "langchain-openai>=0.3.32",
+    "langchain>=0.3.27",
+    "langgraph-supervisor>=0.0.29",
+    "langgraph>=0.6.6",
+    "markdownify>=1.2.0",
+    "openai>=1.102.0",
+]
