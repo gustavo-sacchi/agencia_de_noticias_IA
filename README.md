@@ -2,6 +2,10 @@
 
 Sistema de geracao automatizada de artigos jornalisticos usando agentes de IA, implementado com duas abordagens diferentes: **Agno** e **LangGraph**.
 
+## Tutorial Youtube
+
+Acesse o link para acompanhar o tutorial: https://youtu.be/RtAkVJnlmow
+
 ## Pre-requisitos
 
 - Python 3.13+
